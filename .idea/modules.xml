@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POIAndEasyExcel.iml" filepath="$PROJECT_DIR$/POIAndEasyExcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xchen/com.xchen.iml" filepath="$PROJECT_DIR$/com.xchen/com.xchen.iml" />
+    </modules>
+  </component>
+</project>
